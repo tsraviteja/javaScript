@@ -10,9 +10,9 @@ y = 100;
 
 const PI = 3.14
 
-let name = "some examples"
+let nameOfPerson = "some examples";
 
 console.log("x value is :" + x);
 console.log("y value is :" + y);
 console.log("PI value is :", PI);
-console.log("name value is :", name);
+console.log("name value is :" + nameOfPerson);
